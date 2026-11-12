@@ -6,14 +6,14 @@ Dữ liệu: 12 ảnh người COCO val2017 (Lin et al., 2014) và 8 ảnh chân
 
 ## 0. Thông tin học viên
 
-- Họ tên:
-- MSSV:
-- Email:
-- Link repository:
-- Phiên bản CVAT (Help → About):
-- Máy: hệ điều hành ___ · RAM ___ GB · chạy CVAT chế độ đầy đủ / lite
+- Họ tên:Le Hoang Duc
+- MSSV:2A202603334
+- Email:26ai.duclh2@vinuni.edu.vn
+- Link repository:https://github.com/Tsukito235711/K5-L2b-LeHoangDuc-2A202603334KeypointPose-Student
+- Phiên bản CVAT (Help → About):local
+- Máy: hệ điều hành ___ · RAM 12 GB · chạy CVAT chế độ đầy đủ / lite
 - Bộ ảnh (`src/exports/assignment.json` do `lab.py setup` tạo): có / không
-- Giờ bắt đầu:
+- Giờ bắt đầu:16h30
 - Giờ kết thúc:
 
 ## 1. Kiểm tra label (CP0)
